@@ -18,4 +18,3 @@ tenacity
 Pillow
 PyMuPDF
 python-pptx
-pptx
